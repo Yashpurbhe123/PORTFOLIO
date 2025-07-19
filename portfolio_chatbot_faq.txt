@@ -1,0 +1,201 @@
+1. Who are the members of this team?
+A: We are a team of three AI and web development enthusiasts: Yash Purbhe, Dipshree Vartak, and Aditya Kokate.
+
+2. What is your combined expertise?
+A: We specialize in Machine Learning, Deep Learning, Generative AI, and Full Stack Web Development. Together, we have worked on real-world projects involving predictive analytics, virtual assistants, data visualizations, and dynamic web apps.
+
+3. What makes your team unique?
+A: We combine AI-powered innovation with robust full-stack development. With ML researchers and a full MERN stack developer, we cover both intelligent systems and clean, scalable deployment.
+
+4. What are Yash Purbhe's key skills?
+A: Yash specializes in Python, Machine Learning, Deep Learning (ANN, CNN), TensorFlow, Scikit-learn, and Generative AI. He also builds AI-powered applications using Streamlit and Flask.
+
+5. What are some notable projects Yash worked on?
+A: Yash developed a CKD Prediction Web App with 99% accuracy, a Hyperlocal Demand Forecasting System using Prophet and TensorFlow, and a Seismic Detection model for planetary missions using Butterworth filters.
+
+6. Where did Yash intern recently?
+A: He interned at Prodigy InfoTech and YBI Foundation, where he worked on Linear Regression, K-Means Clustering, Credit Card Fraud Detection, and Heart Disease Prediction.
+
+7. What awards has Yash received?
+A: Yash was a Grand Finalist at the PVPPCOE Quasar 3.0 Hackathon, placing in the top 50 out of 500+ teams.
+
+8. What are Dipshree’s key skills?
+A: Dipshree is skilled in Python, SQL, Scikit-learn, Pandas, NumPy, Power BI, and Flask. Her domain includes ML, Generative AI, and signal processing.
+
+9. What kind of projects has Dipshree built?
+A: She developed a Rainfall Prediction Web App using Random Forest and Streamlit, a Voice-Controlled Desktop Assistant, and a Seismic Signal Denoiser for planetary missions.
+
+10. Where did Dipshree intern?
+A: She interned at YBI Foundation and Prodigy InfoTech, working on ML models like Home Price Prediction, Heart Disease Prediction, and Gesture Recognition.
+
+11. What certifications does Dipshree have?
+A: She holds certifications from NPTEL, IBM, Google Cloud, and Udemy, including 'Python for Data Science' and 'Big Data'.
+
+12. Any extra achievements for Dipshree?
+A: She was a finalist in the Quasar 3.0 Hackathon and completed multiple job simulations from Tata, BCG, and British Airways on Forage.
+
+13. What are Aditya’s key skills?
+A: Aditya is proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. He also works with Python and Bootstrap.
+
+14. What is Aditya’s focus area?
+A: He focuses on building dynamic, responsive web applications using the MERN stack, ensuring cross-device compatibility and clean design.
+
+15. Where has Aditya interned?
+A: Aditya has interned at Acmegrade and Prodigy InfoTech, completing real-world frontend and backend projects.
+
+16. What’s Aditya’s educational background?
+A: He’s pursuing a B.E. in Computer Science Engineering (AIML) and has completed web development training under NxtWave’s CCBP 4.0 Academy.
+
+17. Does Aditya have any major accomplishments?
+A: He successfully executed five major web projects, ensuring both visual appeal and performance optimization.
+
+18. Have you worked on any team projects together?
+A: Yes! We collaborated on projects such as Seismic Detection using signal processing and are actively building intelligent web applications integrating AI and full-stack tech.
+
+19. How do your skills complement each other?
+A: Yash and Dipshree specialize in data-driven models and intelligent algorithms, while Aditya ensures deployment-ready, intuitive user interfaces through full-stack engineering.
+
+20. Are your projects open-source?
+A: Yes, most of our projects are available on our GitHub profiles.
+    Yash’s GitHub: [https://github.com/Yashpurbhe123](https://github.com/Yashpurbhe123)
+    Dipshree’s GitHub: [https://github.com/DipshreeVartak](https://github.com/DipshreeVartak)
+    Aditya’s GitHub: [https://github.com/ADITYAKOKATE](https://github.com/ADITYAKOKATE)
+
+21. What are some soft skills your team members have?
+A: We value teamwork, adaptability, creativity, and problem-solving. Yash and Dipshree bring research thinking and analysis, while Aditya ensures precision and clarity in execution.
+
+22. What tools do Yash and Dipshree use for ML?
+A: We use Scikit-learn, TensorFlow, Keras, NumPy, Pandas, and Matplotlib for ML workflows and model building.
+
+23. What data visualization tools do you use?
+A: We use Power BI, Excel, Plotly, and Matplotlib to convert raw data into interactive and understandable visuals.
+
+24. Tell me about the CKD Prediction project.
+A: Yash built a Chronic Kidney Disease prediction app with Streamlit that achieves 99% accuracy using Random Forest. It features real-time input and user-friendly results.
+
+25. How does Dipshree's Rainfall Prediction App work?
+A: It uses weather parameters like pressure and humidity and applies a Random Forest Classifier, with hyperparameter tuning via GridSearchCV and a Streamlit interface.
+
+26. What is the Seismic Detection Project about?
+A:A joint project by Yash and Dipshree, it filters seismic data using Butterworth filters to detect real events from Apollo and InSight mission logs.
+
+27. What does Aditya bring to team projects?
+A: Aditya ensures that all models and applications have clean, responsive, and scalable interfaces using technologies like React, Node.js, and MongoDB.
+
+28. What was Yash’s role in the Demand Forecasting System?
+A: Yash led the ML side, using Prophet and TensorFlow to predict product demand for hyperlocal delivery services. The project also had voice-enabled dashboards.
+
+29. What frontend frameworks does Aditya use?
+A: He primarily uses React.js and Bootstrap for frontend development, ensuring responsiveness across devices.
+
+30. What backend technologies does Aditya work with?
+A: He uses Node.js, Express.js, and MongoDB for creating full-stack applications with APIs, database connections, and backend logic.
+
+31. What is one unique feature of Dipshree’s voice assistant?
+A: It supports natural voice commands for performing system tasks like playing music, opening apps, or fetching weather — all built with Python and PyQt5.
+
+32. Do you have any GenAI experience?
+A: Yes! Yash and Dipshree completed simulations involving GenAI for chatbot building, no-code AI frameworks, and ethical AI-driven strategies for companies like BCG and Tata.
+
+33. How do you keep up with tech trends?
+A: We take courses on Udemy, NPTEL, IBM Skills Network, and complete job simulations on Forage for hands-on learning with real-world scenarios.
+
+34. What simulation projects did Yash and Dipshree complete on Forage?
+A: We completed simulations from Tata, BCG, Deloitte, and British Airways, tackling problems like customer risk analysis, AI chatbots, data dashboards, and predictive modeling.
+
+35. What do you aim to build in the future?
+A: We aim to create scalable AI-driven platforms that improve education, healthcare, and retail experiences — combining data, design, and intelligence.
+
+36. What inspires your projects?
+A: Real-world problems. Whether it’s health prediction, rainfall analysis, or time series forecasting — we build projects that solve actual challenges using data and AI.
+
+37. Do you contribute to open-source?
+A: Yes! We host and update our projects on GitHub for others to learn from or contribute to.
+
+38. What IDEs and platforms do you work in?
+A: We mostly use VS Code, Jupyter Notebook, Google Colab, and GitHub for code management and collaboration.
+
+39. Are your models production-ready?
+A: Yes. We serialize our models using Pickle and integrate them into interactive apps using Flask or Streamlit with full UI/UX flow.
+
+40. What makes your GitHub profiles unique?
+A: Each of us uploads fully documented, tested, and demo-ready projects with README files and deployment details.
+
+41. Who is Yash?
+A: Yash Purbhe is a passionate machine learning enthusiast and developer who loves turning data into intelligent applications. He's the driving force behind our AI models and always exploring how to solve real-world problems using ML and Deep Learning.
+
+42. Tell me about Yash’s work.
+A: Yash builds powerful ML apps using Python, TensorFlow, and Scikit-learn. He’s worked on health prediction systems, time-series forecasting, and planetary data modeling. His projects often combine strong model accuracy with user-friendly deployment.
+
+43. What kind of projects does your team enjoy working on?
+A: We love building AI-driven solutions that solve real-world problems — from health and weather prediction to education tech and chatbots. We enjoy blending smart ML models with beautiful, functional UIs.
+
+44. What motivates your team?
+A: Real-world impact and continuous learning. We’re driven by the challenge of turning complex data into simple, interactive experiences that help people or improve systems.
+
+45. Why did you form this team?
+A: We came together during academic and internship experiences, where we noticed how well our skills complemented each other — Yash and Dipshree handle AI, while Aditya brings it to life through full-stack web development.
+
+46. What are your future goals as a team?
+A: We want to create impactful platforms in education, healthcare, and sustainability — combining GenAI, ML, and clean design. Our big-picture goal is to simplify intelligence for everyone.
+
+47. How do you divide work in your team?
+A: We divide by strengths — Yash and Dipshree focus on algorithms and data, Aditya handles frontend/backend development. We collaborate closely on integration, testing, and innovation.
+
+48. What makes your projects stand out?
+A: We don’t just build models — we make them interactive, understandable, and usable. Every project includes a polished UI, clear documentation, and practical outcomes.
+
+49. What does a typical project workflow look like for your team?
+A: We start with problem definition, then move to model building (handled by Yash and Dipshree), and then to full-stack deployment and UI design (led by Aditya). We iterate with feedback and test for usability and accuracy.
+
+50. What do you enjoy most about working as a team?
+A: The creativity! Each of us brings a unique perspective — whether it’s Yash’s experimental ML ideas, Dipshree’s data insight, or Aditya’s eye for design. We grow by learning from each other.
+
+51. Who is Dipshree?
+A: Dipshree Vartak is a data science enthusiast with a strong grip on ML algorithms and data handling. She's known in the team for her analytical thinking, solid coding skills, and ability to bring clarity to complex data problems.
+
+52. Tell me about Dipshree’s work.
+A: Dipshree builds data-driven models that are accurate and production-ready. She has worked on rainfall prediction, seismic signal filtering, and voice-controlled assistants. She’s also skilled at data visualization and presenting insights clearly.
+
+53. What kind of projects does Dipshree enjoy working on?
+A: She enjoys problem-solving using AI — especially projects that require a mix of logic, creativity, and precision, like signal denoising, generative AI tools, and smart assistants.
+
+54. What motivates Dipshree?
+A: Real-world applications and continuous improvement. She loves seeing her models make a measurable difference — whether it’s predicting health outcomes or analyzing weather patterns.
+
+55. What’s Dipshree’s biggest strength?
+A: Her ability to break down a complex problem into a clean, optimized solution — whether it’s a tuned ML model, a smart dashboard, or a clean data pipeline.
+
+56. What role does Dipshree play in your projects?
+A: She leads data preprocessing, model tuning, and result interpretation. She ensures models are not just accurate, but also explainable and user-aligned.
+
+57. What does Dipshree enjoy most about team work?
+A: Collaborating across skill sets. She enjoys bringing structure to raw ideas and working closely with both developers and fellow data scientists to bring out the best in a solution.
+
+58. What are Dipshree’s future goals?
+A: She wants to explore applied AI in sustainability and healthcare, focusing on ethical, responsible AI systems with measurable social impact.
+
+59. Who is Aditya?
+A: Aditya Kokate is a frontend and backend web developer who specializes in building seamless, scalable web experiences using the MERN stack. He’s the “builder” of the team who makes sure everything runs and looks great.
+
+60. Tell me about Aditya’s work.
+A: Aditya creates responsive UIs, connects APIs, manages databases, and ensures that every application is user-ready and production-grade. He transforms raw ML models into real-world apps with interactive interfaces.
+
+61. What kind of projects does Aditya enjoy working on?
+A: He enjoys dynamic web projects — especially ones that include real-time data visualization, user interaction, and seamless integration with AI models.
+
+62. What motivates Aditya?
+A: The challenge of building clean, reliable apps from the ground up — and the joy of seeing users interact with something he coded.
+
+63. What’s Aditya’s biggest strength?
+A: His ability to take a rough idea and build a complete, elegant, and efficient web application from scratch — complete with UI/UX, database, and logic.
+
+64. What role does Aditya play in your projects?
+A: He ensures all machine learning models are integrated into user-friendly, mobile-responsive, and fast-loading web applications. He handles both client-side and server-side development.
+
+65. What does Aditya enjoy most about team work?
+A: The process of converting ML insights into usable tools. He loves turning abstract models into something tangible, clickable, and beautiful.
+
+66. What are Aditya’s future goals?
+A: He aims to become a full-fledged system architect, building large-scale applications that use AI, cloud computing, and smart design for real-world use cases.
+
