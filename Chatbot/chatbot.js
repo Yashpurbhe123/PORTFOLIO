@@ -336,7 +336,7 @@ function handleQuickReply(value) {
     } else if (value === 'Who are Yash, Aditya, and Dipshree?') {
         addBotMessageWithTyping("We are Yash, Aditya, and Dipshree—a passionate team of developers and designers. Want to know more about our skills or projects?");
     } else if (value === 'How can I contact the team?') {
-        addBotMessageWithTyping("You can contact us at teamvisionaries123@gmail.com or via the contact form on our website.");
+        addBotMessageWithTyping("You can contact us at teamvisionaries@gmail.com or via the contact form on our website.");
     } else if (value === 'Can I see your resume?') {
         addBotMessageWithTyping("Here’s our team resume. Downloading now...");
         window.open('#', '_blank');
