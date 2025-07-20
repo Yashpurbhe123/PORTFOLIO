@@ -20,7 +20,7 @@ Together, we bring creativity, strategy, and technical expertise to craft meanin
 
 | Member            | Role                | Tagline                                                                       | Location             |
 | ----------------- | ------------------ | ----------------------------------------------------------------------------- | ------------------- |
-| **Yash Purbhe**   | ML Developer       | Passionate ML Developer building AI-powered systems and data-driven solutions | Kalyan, India       |
+| **Yash Purbhe**   | ML & DL Developer       | Passionate ML Developer building AI-powered systems and data-driven solutions | Kalyan, India       |
 | **Dipshree Vartak** | ML Developer     | Transforming complex data into intelligent, actionable machine learning solutions | Thane, India      |
 | **Aditya Kokate** | MERN Stack Developer | Designing and developing dynamic full-stack web applications                  | Nagothane, Maharashtra, India |
 
@@ -67,7 +67,7 @@ These achievements highlight our commitment to continuous learning and building 
 We’d love to hear from you!  
 Feel free to connect for collaborations, internships, freelance projects, or tech talks.
 
-- 📧 Email: [teamvisionaries@gmail.com](mailto:teamvisionaries@gmail.com)
+- 📧 Email: [teamvisionaries123@gmail.com](mailto:teamvisionaries123@gmail.com)
 - 📍 Location: Mumbai, India
 
 ---
@@ -79,4 +79,9 @@ Feel free to connect for collaborations, internships, freelance projects, or tec
 
 ---
 
-> Thank
+## Team Name: Team Avinya
+### Members:
+- Yash Shivlal Purbhe
+- Dipshree Atul Vartak
+- Aditya Rajendra Kokate
+
