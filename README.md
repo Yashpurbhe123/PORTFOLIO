@@ -79,7 +79,7 @@ Feel free to connect for collaborations, internships, freelance projects, or tec
 
 ---
 
-## Team Name: Team Avinya
+## Team Name: DATATRIO
 ### Members:
 - Yash Shivlal Purbhe
 - Dipshree Atul Vartak
