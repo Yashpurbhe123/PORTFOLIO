@@ -1,0 +1,2 @@
+# 🚀 Personal Team Portfolio Website
+This is a responsive and interactive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, team, and other professional information in a structured and visually appealing format.
